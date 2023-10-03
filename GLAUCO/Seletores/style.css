@@ -1,0 +1,18 @@
+#textoPreto{
+    color: black;
+}
+#textoVerde{
+    color: green;
+}
+#textoVermelho{
+    color: red;
+}
+#textoRoxo{
+    color: blueviolet;
+}
+.subtitulo{
+    background-color: rgb(0, 0, 0, 0.5);
+}
+.strong{
+    color:black;
+}
