@@ -1,0 +1,13 @@
+.navbar{
+    background-color: aqua;
+    height: 150px;
+}
+.container{
+    background-color: brown;
+    height: 500px;
+    border: 1px solid black;
+}
+.footer{
+    background-color: green;
+    height: 150px;
+}

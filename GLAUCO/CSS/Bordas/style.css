@@ -1,0 +1,36 @@
+.box1{
+    border-top-width: 5px;
+    border-right-width: 2px;
+    border-bottom-width: 10px;
+    border-left-width: 4px;
+
+    border-top-style: dashed;
+    border-right-style: dotted;
+    border-bottom-style: solid;
+    border-left-style: double;
+
+    border-top-color: red;
+    border-right-color: green;
+    border-bottom-color: blue;
+    border-left-color: blueviolet;
+}
+.box2{
+    border-width: 5px 2px 10px 4px;
+    border-width: 5px 10px 4px;
+    border-width: 5px 10px;
+    border-width: 5px;
+
+    border-style: dashed dotted solid double;
+    border-style: dashed dotted solid;
+    border-style: dashed dotted;
+    border-style: dashed;
+
+    border-color: red green blue blueviolet;
+    border-color: red green blue;
+    border-color: red green;
+    border-color: red;
+}
+.box3{
+    border-bottom: 5px solid red;
+    border: 10px double tomato;
+}

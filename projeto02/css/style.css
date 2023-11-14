@@ -1,0 +1,41 @@
+*{
+    color: white;
+}
+body{
+    background-color: black;
+}
+.container{
+    /* width: 700px;*/
+    height: auto;
+    border:1px solid rgb(252, 1, 1);
+    background-color: black;
+}
+div.capa{
+    background-image: url("../img/capa.jpg");
+    height: 310px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.navbar{
+    height: 50px;
+    background: linear-gradient(to right, #0a0d11, #4a668e);
+}
+ul{
+    margin-top: 0px;
+    margin-left: 0px;
+    font-weight: 600;
+    display: flex;
+}
+a{
+    color: white;
+    text-decoration: none;
+    margin-right:20px ;
+    margin-top: 15px;
+    margin-left: 20px;
+}
+.direitos{
+    text-align: center;
+    padding-top: 400px;
+}
+

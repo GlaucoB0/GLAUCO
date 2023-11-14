@@ -1,0 +1,19 @@
+body{
+    background-color: aquamarine;
+}
+div{
+    height: 300px;
+    border: 1px solid black;
+}
+.box1{
+    background-color: beige;
+}
+.box2{
+    background-image: url(./img/imgDeadpool.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.box3{
+    
+}
+

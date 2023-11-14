@@ -1,0 +1,57 @@
+*{
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+body{
+    background: rgb(0,0,0);
+    background: linear-gradient(90deg, rgba(0,0,0,1) 50%, rgba(7,20,93,1) 79%, rgba(0,75,149,1) 100%);
+}
+.container{
+    width: 100%;
+    
+}
+.logo{
+    max-width: 150px;
+    margin-left: 15px;
+}
+.navbar{
+    background-color: black;
+    display: flex;
+}
+nav{
+    position: ;
+}
+.imagem-principal{
+    position: absolute;
+    left: 65%;
+    
+}
+.turista{
+    width: 600px;
+    /* margin-right: 100px; margin-top: 200px; */
+}
+.descricao{
+    position: relative;
+    margin-top: 80px; margin-left: 50px;
+    width: 900px;
+    
+}
+.txtdescricao{
+    margin-bottom: 20px;
+}
+.tudo{
+    display: flex;
+    margin-top: 150px;
+}
+.titulo{
+    font-size: 80px;
+    font-weight: 800;
+}
+.botao{
+    background-color: rgb(39, 39, 236);
+    padding: 10px;
+    border-radius: 15px;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 19px;
+}
